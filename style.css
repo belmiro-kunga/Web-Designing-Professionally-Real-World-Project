@@ -1,0 +1,19 @@
+/*
+    Autor: Belmiro Kunga;
+    Tema de um restaurante;
+    Versão 1.0;
+*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Roboto sans-serif;
+}
+.container{
+    border: 1px solid red;
+    width: 80%;  
+    margin: 0 auto;
+    padding: 1%;
+}
+
+/* Css para a secção  de navegação*/
